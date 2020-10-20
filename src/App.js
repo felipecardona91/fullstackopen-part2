@@ -38,7 +38,7 @@ const App = (props) => {
       <h1>Notes</h1>
       <div>
         <button onClick={() => setShowAll(!showAll)}>
-          show {showAll ? 'important' : 'all' }
+          show {showAll ? 'important' : 'all' }//test
         </button>
       </div>
       <ul>
